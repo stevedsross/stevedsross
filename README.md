@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steve Ross</h1>
-<h3 align="center">An expert Wordpress Developer</h3>
+<h3 align="center">Entrepreneur & Mentor | UX/UI Designer | Full Stack Developer | Photographer | Neurodiversity Advocate</h3>
 
 <p align="left"> <a href="https://twitter.com/stevedsross" target="blank"><img src="https://img.shields.io/twitter/follow/stevedsross?logo=twitter&style=for-the-badge" alt="stevedsross" /></a> </p>
 
