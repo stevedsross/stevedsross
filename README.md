@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Steve Ross</h1>
-<h3 align="center">Entrepreneur & Mentor | UX/UI Designer | Full Stack Developer | Photographer | Neurodiversity Advocate</h3>
+<h1>Hi 👋, I'm Steve Ross</h1>
+<h3>Entrepreneur & Mentor | UX/UI Designer | Full Stack Developer | Photographer | Neurodiversity Advocate</h3>
 
 - 👯 I own and operate [Bad Egg Digital](https://www.badegg.uk), a website design and development company in the United Kingdom.
 
