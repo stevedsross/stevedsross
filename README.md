@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Steve Ross</h1>
-<h3>Entrepreneur & Mentor | UX/UI Designer | Full Stack Developer | Photographer | Neurodiversity Advocate</h3>
+<h3>Freelancer | UX/UI Designer | Full Stack Developer | Photographer | Neurodiversity Advocate</h3>
 
-- 👯 I own and operate [Bad Egg Digital](https://www.badegg.uk), a website design and development company in the United Kingdom.
+- 👯 I operate my freelance business under the brand [Bad Egg Digital](https://www.badegg.uk).
 
 - 👨‍💻 Some of my projects are available at [https://www.badegg.uk/work/](https://www.badegg.uk/work/)
 
