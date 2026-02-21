@@ -5,8 +5,6 @@
 
 - 👨‍💻 Some of my projects are available at [https://www.badegg.uk/work/](https://www.badegg.uk/work/)
 
-- 📫 How to reach me **[REDACTED]**
-
 - 📄 Learn more about me on LinkedIn: [https://www.linkedin.com/in/stevedsross/](https://www.linkedin.com/in/stevedsross/)
 
 <h3 align="left">Languages and Tools:</h3>
